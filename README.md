@@ -22,7 +22,7 @@ This section includes in-depth feature reports and long-form journalism from var
 
 To use these RSS feeds in the Feeder app:
 
-1. Download the [OPML file](./opml_file.opml) from this repository's main branch.
+1. Download the [OPML file](./feeder-export.opml) from this repository's main branch.
 2. Import the OPML file into the Feeder app.
 
 For more information on using Feeder, visit the [Feeder GitHub page](https://github.com/spacecowboy/Feeder).
