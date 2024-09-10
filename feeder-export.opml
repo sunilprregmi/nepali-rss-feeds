@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1" xmlns:feeder="https://nononsenseapps.com/feeder">
+  <head>
+    <title>
+      Nepali RSS Feeds for Feeder
+    </title>
+  </head>
+  <body>
+    <outline title="Economic News" text="Economic News">
+      <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Ajako Aartha" text="Ajako Aartha" type="rss" xmlUrl="https://www.ajakoartha.com/feed"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://arthasarokar.com/wp-content/uploads/2021/07/artha-sarokar-favicon-150x150.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Artha Sarokar :: Nepal&apos;s No.1 Economic News portal." text="Artha Sarokar :: Nepal&apos;s No.1 Economic News portal." type="rss" xmlUrl="https://arthasarokar.com/feed"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://www.arthapath.com/wp-content/uploads/2019/08/cropped-favicon-32x32.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Arthapath.com" text="Arthapath.com" type="rss" xmlUrl="https://www.arthapath.com/feed/"/>
+      <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Bizpati.com" text="Bizpati.com" type="rss" xmlUrl="https://bizpati.com/feed"/>
+    </outline>
+    <outline title="Feature Reports" text="Feature Reports">
+      <outline feeder:notify="false" feeder:imageUrl="https://www.cinkhabar.com/themes/cinkhabar/images/fb-img.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="CINKhabar" text="CINKhabar" type="rss" xmlUrl="https://www.cinkhabar.com/feed"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://gorkhapatraonline.com/landing-assets/img/favicon.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Gorkhapatra | Nepal&apos;s First News Organization" text="Gorkhapatra | Nepal&apos;s First News Organization" type="rss" xmlUrl="https://gorkhapatraonline.com/rss"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://www.himalkhabar.com/themes/himalkhabar/images/fb-img.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Himalkhabar" text="Himalkhabar" type="rss" xmlUrl="https://www.himalkhabar.com/feed"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://web.nepalnews.com/storage/website/default_160X160.jpg" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="NepalNews" text="NepalNews" type="rss" xmlUrl="https://nepalnews.com/feed"/>
+    </outline>
+    <outline title="Public Interest News" text="Public Interest News">
+      <outline feeder:notify="false" feeder:imageUrl="https://himalpress.com/wp-content/uploads/2022/11/icon-hp.jpg" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Himal Press" text="Himal Press" type="rss" xmlUrl="https://himalpress.com/feed/"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://kendrabindu.com/wp-content/uploads/2024/01/cropped-kendrabindu-icon-32x32.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Kendrabindu" text="Kendrabindu" type="rss" xmlUrl="https://kendrabindu.com/feed"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://www.khabarhub.com/wp-content/uploads/2019/06/cropped-logo1-e1561904137653-32x32.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Khabarhub" text="Khabarhub" type="rss" xmlUrl="https://khabarhub.com/feed/"/>
+      <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Lokaantar" text="Lokaantar" type="rss" xmlUrl="https://www.lokaantar.com/feed/"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://nepalsamaya.com/themes/nepalsamaya/images/fb-img.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="NepalSamaya" text="NepalSamaya" type="rss" xmlUrl="https://nepalsamaya.com/feed"/>
+      <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Ratopati" text="Ratopati" type="rss" xmlUrl="https://www.ratopati.com/feed"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://www.onlinekhabar.com/wp-content/uploads/2017/05/logo-mobile1-50x50.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="OnlineKhabar" text="OnlineKhabar" type="rss" xmlUrl="https://www.onlinekhabar.com/feed"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://www.setopati.com/themes/setopati/images/fb-img.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Setopati" text="Setopati" type="rss" xmlUrl="https://www.setopati.com/feed"/>
+      <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="UJYAALO 90 NETWORK :: सीधा कुरा प्रस्ट विचार - News Feed" text="UJYAALO 90 NETWORK :: सीधा कुरा प्रस्ट विचार - News Feed" type="rss" xmlUrl="https://ujyaaloonline.com/rss"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://ukeraa.prixacdn.net/static/frontend/assets/images/logo-small.png?v=132" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="ukeraa" text="ukeraa" type="rss" xmlUrl="https://ukeraa.com/feed/"/>
+      <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="थाहा खबर" text="थाहा खबर" type="rss" xmlUrl="https://thahakhabar.com/rss/"/>
+    </outline>
+    <outline title="Tech News" text="Tech News">
+      <outline feeder:notify="false" feeder:imageUrl="https://techsathi.com/wp-content/uploads/2019/09/TechSathi-Site-Icon-150x150.jpg" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="TechSathi" text="TechSathi" type="rss" xmlUrl="https://techsathi.com/feed"/>
+      <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Techpana" text="Techpana" type="rss" xmlUrl="https://www.techpana.com/feed"/>
+    </outline>
+    <feeder:settings>
+      <feeder:setting key="pref_added_feeder_news" value="true"/>
+      <feeder:setting key="pref_img_only_wifi" value="true"/>
+    </feeder:settings>
+  </body>
+</opml>
